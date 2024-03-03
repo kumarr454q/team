@@ -375,9 +375,7 @@ sudo docker container prune
 ```
 
 4. To delete the images:
-   <a href="https://render.com/deploy?repo=https://github.com/kumarr454q/team">
-  <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
-</a>
+
 
 ```
 sudo docker image prune -a
@@ -995,4 +993,8 @@ Where host is the name of extractor (eg. instagram, Twitch). Multiple accounts o
 |Author and DDL, UI Design, More Customs..|Author and Wraps Up Features|Co-Author & Bug Tester|
 
 </details>
+
+<a href="https://render.com/deploy?repo=https://github.com/kumarr454q/team">
+  <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
+</a>
 
